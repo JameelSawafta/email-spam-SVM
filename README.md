@@ -35,7 +35,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn nltk string
 The dataset used in this project is [Spam Email](https://www.kaggle.com/datasets/mfaisalqureshi/spam-email). This dataset contains a collection of labeled emails that can be used for training and testing the classifier.
 
 ## Running the Notebook
-To run the Jupyter Notebook, open the *Email Spam SVM Classifier.ipynb* file in Jupyter Notebook or Jupyter Lab. Follow the instructions in the notebook to execute each cell and run the code.
+To run the Jupyter Notebook, open the *Email Spam SVM .ipynb* file in Jupyter Notebook or Jupyter Lab. Follow the instructions in the notebook to execute each cell and run the code.
 
 The notebook consists of the following sections:
 
